@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403689352430",
+    "project_id": "ev-demand-mapping-and-tracker",
+    "storage_bucket": "ev-demand-mapping-and-tracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403689352430:android:f9f634cdf6eb167602d7ff",
+        "android_client_info": {
+          "package_name": "com.ceg.evapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEo6jJIOA_a69WNMZRugTb-JSwrWFPgo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
